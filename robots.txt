@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /d/
+Disallow: /e/
+User-agent: MJ12bot
+Disallow: /
+Sitemap: https://www.0427qy.com/sitemap/index.txt
